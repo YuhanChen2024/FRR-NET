@@ -6,7 +6,7 @@
 
 ## Introduction
 
-<img src="https://i.postimg.cc/xCsBH5dF/3.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/YuhanChen2024/FRR-NET/blob/main/imgs/1.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 
 Low-light image enhancement algorithm is an important branch in the ﬁeld of image enhancement algorithms. To solve the problem of severe feature degradation in enhanced images after brightness enhancement, much work has been devoted to the construction of multi-scale feature extraction modules. However, this type of research often results in a huge number of parameters, which prevents the work from being generalized. To solve the above problems, this paper proposes a fast repara-metric residual network (FRR-NET) for low-light image enhancement. It achieves results beyond comparable multi-scale fusion modules. By designing a light-weight fast reparametric residual block and a transformer-based brightness enhancement module. The network in this paper has only 0.012 M parameters. Extensive experimental validation shows that the algorithm in this paper is more saturated in color reproduction, while appropriately increasing brightness. FRR-NET performs well on subjective vision tests and image quality tests with fewer parameters compared to existing methods.
 
@@ -43,7 +43,7 @@ python test.py
 
 ## Results on Low-light Image Enhancement
 
-<img src="https://i.postimg.cc/Kz9CLfYC/4.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
+<img src="https://github.com/YuhanChen2024/FRR-NET/blob/main/imgs/2.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 
 ## Citations
 
